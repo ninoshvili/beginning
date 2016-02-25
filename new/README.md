@@ -1,0 +1,4 @@
+# beginning
+start
+p
+zcz
